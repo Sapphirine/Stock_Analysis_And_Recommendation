@@ -9,7 +9,7 @@ Ye Wang (yw2883)
 we get our dataset from Quandl, Wiki EOD Stock Prices   
 https://www.quandl.com/data/WIKI-Wiki-EOD-Stock-Prices/documentation/documentation?modal=null    
 
-## Tool
+## Tools
 Python, Spark, MATLAB
 
 ## Descripton
